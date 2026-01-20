@@ -136,10 +136,8 @@ let isStudent=true   // boolean
 // let heros=['cap','iron','thor']  // array    
 // let obj= {name:"dev", age:13} // object
 
-const myfun=function(){
-        console.log("hello worLd");
+// const myfun=function(){
+//         console.log("hello worLd");
         
-}
-myfun()
-
-
+// }
+// myfun()
